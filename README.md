@@ -28,7 +28,7 @@ autoscout24-market-analytics/
 │   ├── __init__.py
 │   ├── data_loader.py           # Skript zur automatisierten Datenbereinigung
 │   └── model_pipeline.py        # ML-Training & Pipeline-Module
-├── app.py                       # Streamlit Dashboard App
+├── app.py                       # Interaktives Streamlit Dashboard (Web-App)
 ├── requirements.txt             # Abhängigkeiten
 ├── .gitignore
 └── README.md
