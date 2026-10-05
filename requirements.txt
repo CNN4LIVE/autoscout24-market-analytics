@@ -8,3 +8,4 @@ streamlit
 ipykernel
 psycopg2-binary
 sqlalchemy
+python-dotenv
